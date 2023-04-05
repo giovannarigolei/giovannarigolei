@@ -19,4 +19,9 @@ Passionate about technology, I'm always trying to develop myself in fronts like 
 
 ### Additional Education: ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannarigolei&theme=graywhite&show_icons=true)
+
+
 ## Contact
