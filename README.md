@@ -3,6 +3,7 @@
 ## About Me
 
 Hello, I'm Giovanna Rigolei, a Science and Technology university student at UFABC -  University Federal of ABC.
+
 Passionate about technology, I'm always trying to develop myself in fronts like Web Development, Data Science and Artificial Intelligence.
 
 ## Technologies
