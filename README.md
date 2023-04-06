@@ -6,7 +6,7 @@ Hello, I'm Giovanna Rigolei, a Science and Technology university student at UFAB
 
 Passionate about technology, I'm always trying to develop myself in fronts like Web Development, Data Science and Artificial Intelligence.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannarigolei&theme=graywhite&repo=Portfolio)](https://github.com/giovannarigolei/Portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannarigolei&theme=graywhite&repo=ProjetoBCC_Python)](https://github.com/giovannarigolei/ProjetoBCC_Python)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=giovannarigolei&theme=graywhite&repo=Portfolio)](https://github.com/giovannarigolei/Portfolio)
 
 
 
