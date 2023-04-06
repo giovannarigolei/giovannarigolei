@@ -9,6 +9,8 @@ Passionate about technology, I'm always trying to develop myself in fronts like 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannarigolei&theme=graywhite&repo=ProjetoBCC_Python)](https://github.com/giovannarigolei/ProjetoBCC_Python)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannarigolei&theme=graywhite&repo=Portfolio)](https://github.com/giovannarigolei/Portfolio)
+
 ## Technologies
 
 ### Office:  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
